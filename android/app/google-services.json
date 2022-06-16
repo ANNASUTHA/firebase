@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791847750329",
+    "project_id": "sample-app-2df0a",
+    "storage_bucket": "sample-app-2df0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791847750329:android:00f2b95453562229926968",
+        "android_client_info": {
+          "package_name": "com.lanwaresolutions.sample_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791847750329-8p99dnncqdslh0sfg4bagdmrig1r3oeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jQh9U-Xocxa5QukCAFWgxWu_t7X75wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791847750329-8p99dnncqdslh0sfg4bagdmrig1r3oeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
